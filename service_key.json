@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "physiotherapy-1c6ab",
+  "private_key_id": "4db122abd97d4b4ade8f62a92313c7d515715549",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDwFdzMXRPG3uXF\neOFutMtQb8qdBXwg8u7npasGxJiVFmZqcxu2LCaCb1eSwqK7Uo9cc2Jn+3KBMoI3\n61DnvaPHeocMU+CHqA8jg8zV7zuEiHbCEm7btAabnni4WjhelsUd3/999iJ8oLGC\n37o0BE8C/lD5lIt4Su3kpUH+/wwo5iJq4wIiK6p2QRl/PqFK4THvKvlOo0StX2Ve\n6cyQvgdEdb3jZZ6dXpcpjunU/2BEjFkogXRBeEjkLLpf60+hwX1wdwnA+OHAaAR8\nPVLLner7doNkipR0xSM/rEax1V41RrMiOpgAflf32hvvR+qBTj44etOhYKBhTigG\nu4qL7x8TAgMBAAECggEAALbf8E+6llXlcx/3879f935NqQfyJZrzcQcCKkP9fDwT\n0+9BvtoEx1CTfyFLIKmPOaQyP8L0xUOkNYxisj3TNe28ZyH8wgqS+PUUb/KFR9Cs\nIcmyQL8ZYe8nxsyl7EogjgUzmmlYEuzbels2D5+PqJ+fGA8EFziJ2qtPNfYGUDzV\nlaQeME68hwPh7n2CCN0QCVxxPDQwXyv7nwc9loL5FlTWIhzLEn/cFKyRrbXRG7kD\ngdccrCnrdh41244ijGsigSb8VPbT+viz+IBRzYTrXFyb70AvpM6fJPHwYy5QxgWp\nYZpYK68RCe5HSAVVxmf9vLV7ARmd8LdRZHMDKiM++QKBgQD8TH+kSD4vbLMmfE9s\nBiIF8zFTwxPFRFfE8Qu9RD+E176OW1T/d/3OZOjlQb8fZY2v2tXGOvhISUjRk4DW\nfiZxjA5Dx4P3B5JOvElUH/nxT8btB+6eEzHVK7OhdszZUXWX1GsRK+Xde2c4ORb+\nkR9CFY3K+/AJbXwx1yEaF9ajrQKBgQDzm38ox6V9/TNvPW8s52ioJVtTTU0Z2Xd8\n9+UgsNhO0zc7afdvgA1QmckARSTsJGoCxFMML7uSR0z3jBjxMSZOeB1OktjDmb4n\nsnGgW+xWgwcoRNHtM0c5pEWqUw3Uh1kcRPslpQXOgpiuzlNSrYlhngua64Q6niXW\n+982fg8lvwKBgQC5ZQVOlP+NHdUvbJ14BbGuqZwPrwOyK5xLTc2QkLwUQ+z08sws\nxeGtbp1tCbkFuzw4gxgfiGm1xJRL3JYKB7z8Jyy8RboFJn0uelFwDec+mZ7VwsRn\nSDeQK4LeHUw+TQuaPC9I+Pb6n5mjyN/KxJ0xlGETTbp/UwK2JR1f7TB+KQKBgQDq\nm7qe/4c2Cv/aBgRn7oUwSqnlU/EJEBKvW95i2W24nFn48ljGHUC1eyXFCNJCSd9+\nwqxodB/lBJ3vWhE7V+ZYc/1liq8P0aT8fjJICb9WoeHmukCifFv/+2DMZChRofgD\n7bshyggJlmSNFU/RtCc2yArNLDywZ1Zx8ShLRqQ36QKBgQDRvaQ0VjiyAPIw/Xwq\nKETBCfk8T1bSi4ji8VsW9mTimtI3OvnyloRvpownPis1eVOtuGnxqh0ExlUJYa7J\nJ3s3eKhIWgHigdcP887jW4Ctt/M35Me3G6Dh0UeXwmbAQTjVG9rEIKyZJePKpBPk\nQTSfOVKFq52SptxywwJ5UoNErg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ce7o8@physiotherapy-1c6ab.iam.gserviceaccount.com",
+  "client_id": "114724926678497835605",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ce7o8%40physiotherapy-1c6ab.iam.gserviceaccount.com"
+}
